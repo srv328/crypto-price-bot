@@ -1,7 +1,7 @@
 # crypto-price-bot
 this repository contains a simple example of telegram bot using aiogram v3
 
-This is a simple Python Telegram bot designed to provide cryptocurrency prices using the Binance API. Users can interact with the bot by starting a conversation and utilizing buttons to inquire about the prices of popular cryptocurrencies.
+this is a simple Python Telegram bot designed to provide cryptocurrency prices using the Binance API. Users can interact with the bot by starting a conversation and utilizing buttons to inquire about the prices of popular cryptocurrencies.
 
 ## Getting Started
 
